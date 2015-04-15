@@ -1,4 +1,4 @@
-package net.sourceforge.jgeocoder.us;
+package com.bachac.addressparser;
 
 import static org.junit.Assert.assertEquals;
 

@@ -1,6 +1,4 @@
-#################
-## Eclipse
-#################
+# Eclipse
 
 .classpath
 .settings
@@ -9,3 +7,8 @@ lib
 local
 .project
 jars
+
+# IntelliJ
+
+.idea
+.gradle
